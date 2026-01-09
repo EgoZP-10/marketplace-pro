@@ -4,6 +4,7 @@ function Home() {
     return (
         <>
         <div className="md:py-30 py-20 px-10">Moise's part</div>
+
         <p className="px-10">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam porro mollitia quo molestias quos dolorem placeat sed velit. Natus doloribus consectetur adipisci ipsa omnis voluptatum architecto quasi cum magnam eum!
             Architecto eveniet unde tenetur numquam dolorem animi, velit itaque rerum consequuntur, commodi, in voluptate exercitationem incidunt explicabo enim ipsam voluptates eius reprehenderit nulla voluptatum esse veritatis nemo quod. Possimus, eos.

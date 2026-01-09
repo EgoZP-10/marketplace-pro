@@ -6,6 +6,7 @@ import Categories from "./pages/Categories";
 import Contact from "./pages/Contact";
 import Login from "./pages/Login";
 import SellerProfile from "./pages/SellerProfile";
+import Settings from "./pages/Settings";
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       <Route>
         <Route path="/login" element={<Login />} />
         <Route path="/sellerProfile" element={<SellerProfile/>} />
-        </Route>
+        <Route path="/settings" element={<Settings />} />
+      </Route>
     
     </Routes>
   );

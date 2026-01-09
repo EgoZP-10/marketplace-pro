@@ -7,7 +7,7 @@ function Login() {
       <div className="py-30 text-7xl flex justify-center items-center">
         Login
       </div>
-      <Link to="/">
+      <Link to="/sellerProfile">
         <p className="text-blue-700 text-center text-xl cursor-pointer">
           return
         </p>
